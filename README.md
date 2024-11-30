@@ -28,6 +28,10 @@
 
 ###
 
+<h2 align="center">Stats</h2>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=admil69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=admil69&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -37,6 +41,10 @@
 <p align="center">
   <img src="https://wakatime.com/share/@dd2158b9-95da-4a0b-af1d-bb197644d814/c7ea5ec8-d4ef-426c-8c2e-3a74d2ebc233.svg" height="400"/>
 </p>
+
+###
+
+<h2 align="center">Connect with me</h2>
 
 ###
 
