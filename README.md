@@ -34,6 +34,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=admil69&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<p align="center">
+  <img src="https://wakatime.com/share/@dd2158b9-95da-4a0b-af1d-bb197644d814/c7ea5ec8-d4ef-426c-8c2e-3a74d2ebc233.svg" height="400"/>
+</p>
+
 ###
 
 <div align="center">
@@ -43,6 +47,12 @@
   </a>
   <a href="https://tryhackme.com/r/p/admiles69" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
+  <a href="https://leetcode.com/u/adamaselibamnget/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" width="52" height="40" alt="leetcode"  />
+  </a>
+  <a href="https://www.codewars.com/users/admil69" target="_blank">
+    <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="52" height="40" alt="hackerrank"  />
   </a>
 </div>
 
