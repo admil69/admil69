@@ -27,7 +27,7 @@ Passionate aspiring Data Scientist and Artificial Intelligence Engineer, current
 ###
 
 
-<h2 align="center">Programming langueage mastery</h2>
+<h2 align="center">Programming language mastery</h2>
 
 ###
 
