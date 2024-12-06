@@ -4,7 +4,28 @@
 
 <p align="center">This page showcases all of my projects, illustrating my overall progress from the first day to my most recent experiences</p>
 
+
+## About Me
+Passionate aspiring Data Scientist and Artificial Intelligence Engineer, currently diving deep into the world of data. My GitHub repository is a comprehensive showcase of my professional growth, technical skills, and ongoing learning journey.
+
+## 🚀 Career Objectives
+- Pursue a career in Data Science and Artificial Intelligence
+- Develop cutting-edge solutions using advanced analytics
+- Continuously expand my knowledge in machine learning and data science
+
+## 🛠 Technical Skills
+- **Programming Languages:** Python
+- **Data Engineering:** Data manipulation, preprocessing
+- **Tools:** Jupyter Notebook, pandas, numpy
+- **Currently Exploring:** Machine learning techniques, AI technologies
+
+## 🌱 Learning Path
+- Focusing on building robust data engineering skills
+- Expanding knowledge in Python-based data science technologies
+- Practicing hands-on projects to demonstrate practical expertise
+
 ###
+
 
 <h2 align="center">Programming langueage mastery</h2>
 
